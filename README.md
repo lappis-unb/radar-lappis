@@ -4,6 +4,13 @@ LAPPIS é o Laboratório Avançado de Produção, Pesquisa e Inovação em Softw
 Universidade de Brasília/Faculdade UnB Gama. Este repositório documenta as 
 filosofias, práticas e tecnologias utilizadas no laboratório.
 
+ * [Conheça o Lappis](https://lappis.rocks/)
+ * [Quem Somos](./quem-somos)
+ * [Filosofia](./filosofia)
+ * [Educação](./educacao)
+ * [Linguagens](./languages)
+ * [Ferramentas](./ferramentas)
+ * [Plataformas](./plataformas)
 
 ## Como contribuir?
 
