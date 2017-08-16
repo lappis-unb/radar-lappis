@@ -1,7 +1,7 @@
-Linguagens e frameworks
+# Linguagens e Frameworks
 =======================
 
-Adotar
+## Adotar
 ------
 
 ### Python 3
@@ -11,18 +11,18 @@ Python 3 introduced many useful features that are not backward compatible with P
 
 ### Ruby
 
-Criada em 93, Ruby é um linguagem de programação interpretada e totalmente orientada a objetos que possui enorme expressividade. Uma linguagem muito simples de ler e ser entendida, facilitando assim o desenvolvimento e a manutenção de programas.
-
 #### _"Ruby is simple in appearance, but is very complex inside, just like our human body"_
 ##### - Yukihiro Matsumoto, Criador do Ruby
+
+Criada em 93, Ruby é um linguagem de programação interpretada e totalmente orientada a objetos que possui enorme expressividade. Uma linguagem muito simples de ler e ser entendida, facilitando assim o desenvolvimento e a manutenção de programas.
 
 A linguagem foi adotada pelo LAPPIS por proporcionar um curto período de adaptação por novos membros, sem restringir a capacidade de desenvolvimento de aplicações complexas por membros mais experientes.
 
 ### SASS
 
-...
+É uma extensão da linguagem CSS, sendo compatível com todas as versões da mesma e suas bibliotecas. O SASS tem sido ativo por mais de 10 anos e é a a linguagem de _script_ mais usada para o CSS. É utilizado por _default_ nas folhas de estilo do Ruby on Rails.
 
-Experimentar
+## Experimentar
 ------------
 
 
@@ -36,28 +36,28 @@ In the ever-changing world of front-end JavaScript frameworks, one of the emergi
 
 
 
-Testar
+## Testar
 ------
 
-## Julia
+### Julia
 
 ...
 
 
-## Elixir
+### Elixir
 
 ...
 
 
-Estudar
+## Estudar
 -------
 
 
-Em suspenso
+## Em suspenso
 -----------
 
 
-Evitar
+## Evitar
 ------
 
 
