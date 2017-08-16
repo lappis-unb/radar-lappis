@@ -1,7 +1,7 @@
-# Linguagens e Frameworks
+Linguagens e Frameworks
 =======================
 
-## Adotar
+Adotar
 ------
 
 ### Python 3
@@ -18,11 +18,19 @@ Criada em 93, Ruby é um linguagem de programação interpretada e totalmente or
 
 A linguagem foi adotada pelo LAPPIS por proporcionar um curto período de adaptação por novos membros, sem restringir a capacidade de desenvolvimento de aplicações complexas por membros mais experientes.
 
+### Ruby on Rails
+
+É um framework de desenvolvimento web que promete melhorar o desempenho do desenvolvedor ao implementar aplicações orientadas a banco de dados _(database-driven web sites)_ que segue o padrao arquitetural MVC _(Model View Controller)_. Possui fonte aberta e é escrito na linguagem Ruby.
+
+O RoR é agil por natureza e segue dois grandes conceitos **DRY** e **Convention over Configuration** que aumentam a produtividade do desenvolvedor.
+
+O LAPPIS explora o **Ruby on Rails** por seu potencial de uso e por possuir uma comonunidade de desenvolvedores ativa. Além disso, usamos essa tecnologia para facilitar a manutenção e evoluçãa da plataforma Noosfero, pois foi produzida com a mesma.
+
 ### SASS
 
 É uma extensão da linguagem CSS, sendo compatível com todas as versões da mesma e suas bibliotecas. O SASS tem sido ativo por mais de 10 anos e é a a linguagem de _script_ mais usada para o CSS. É utilizado por _default_ nas folhas de estilo do Ruby on Rails.
 
-## Experimentar
+Experimentar
 ------------
 
 
@@ -35,8 +43,7 @@ A linguagem foi adotada pelo LAPPIS por proporcionar um curto período de adapta
 In the ever-changing world of front-end JavaScript frameworks, one of the emerging favorites appears to be Vue.js. Vue.js is a lightweight alternative to AngularJS. It is designed to be a very flexible—and a less opinionated—library that offers a set of tools for building interactive web interfaces around concepts such as modularity, components and reactive data flow. It has a low learning curve, which makes it interesting for less experienced developers and beginners. Note, though, that Vue.js is not a full-blown framework; it is focused on the view layer only and therefore is easy to integrate with other libraries or existing projects.
 
 
-
-## Testar
+Testar
 ------
 
 ### Julia
@@ -49,15 +56,15 @@ In the ever-changing world of front-end JavaScript frameworks, one of the emergi
 ...
 
 
-## Estudar
+Estudar
 -------
 
 
-## Em suspenso
+Em suspenso
 -----------
 
 
-## Evitar
+Evitar
 ------
 
 
