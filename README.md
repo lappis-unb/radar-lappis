@@ -5,12 +5,12 @@ Universidade de Brasília/Faculdade UnB Gama. Este repositório documenta as
 filosofias, práticas e tecnologias utilizadas no laboratório.
 
  * [Conheça o Lappis](https://lappis.rocks/)
- * [Quem Somos](./quem-somos)
- * [Filosofia](./filosofia)
- * [Educação](./educacao)
- * [Linguagens](./languages)
- * [Ferramentas](./ferramentas)
- * [Plataformas](./plataformas)
+ * [Quem Somos](./quem-somos.md)
+ * [Filosofia](./filosofia.md)
+ * [Educação](./educacao.md)
+ * [Linguagens](./languages.md)
+ * [Ferramentas](./ferramentas.md)
+ * [Plataformas](./plataformas.md)
 
 ## Como contribuir?
 
