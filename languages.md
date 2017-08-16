@@ -11,7 +11,12 @@ Python 3 introduced many useful features that are not backward compatible with P
 
 ### Ruby
 
-...
+Criada em 93, Ruby é um linguagem de programação interpretada e totalmente orientada a objetos que possui enorme expressividade. Uma linguagem muito simples de ler e ser entendida, facilitando assim o desenvolvimento e a manutenção de programas.
+
+#### _"Ruby is simple in appearance, but is very complex inside, just like our human body"_
+##### - Yukihiro Matsumoto, Criador do Ruby
+
+A linguagem foi adotada pelo LAPPIS por proporcionar um curto período de adaptação por novos membros, sem restringir a capacidade de desenvolvimento de aplicações complexas por membros mais experientes.
 
 ### SASS
 
